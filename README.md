@@ -11,4 +11,3 @@ Teacher Version (with code):
 
 High School Level Task using smartphone data (from phyphox app) & Jupyter notebooks
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/cms-opendata-education/HST-2018/blob/master/elevator_student.ipynb/master)
-.. image:: https://mybinder.org/badge.svg :target: https://mybinder.org/v2/gh/cms-opendata-education/HST-2018/blob/master/elevator_student.ipynb/master
