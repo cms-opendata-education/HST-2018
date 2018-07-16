@@ -12,5 +12,8 @@ Teacher Version (with code):
 
 High School Level Task using smartphone data from Phyphox-App  & Jupyter notebooks
 
-Student Version (with code): 
+  Elevator - measure air pressure (Student Version with code)
+
+  Merry-go-round - measure magnetic field (Teacher version with code)
+  
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/cms-opendata-education/HST-2018/master)
