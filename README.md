@@ -11,7 +11,7 @@ Teacher Version (with code):
 
 
 
-High School Level Task using smartphone data from Phyphox-App  & Jupyter notebooks
+High School Level Task using smartphone data from phyphox-App  & Jupyter notebooks
 
   - Elevator - measure air pressure (Student Version with code)
 
