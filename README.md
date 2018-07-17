@@ -14,6 +14,8 @@ High School Level Task using CMS open data & Jupyter notebooks to find evidence 
 High School Level Task using smartphone data from phyphox-App  & Jupyter notebooks
 
   - Elevator - measure air pressure (Student Version with code)
+  -- elevator_student.ipynb
+  -- elevator_school.ipynb   
 
   - Merry-go-round - measure magnetic field (Teacher version with code)
   
