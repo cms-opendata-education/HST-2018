@@ -21,12 +21,12 @@ You can run these notebooks in binder by using the link below. Refer to the teac
 
   - Elevator - measure air pressure:
   -- elevator_student.ipynb
-  -- elevator_school.ipynb   
+  -- elevator_teacher.ipynb   
 
   - Merry-go-round - measure magnetic field:
-  -- merry-go-round.ipynb
+  -- merry-go-round_teacher.ipynb
   
   - GPS - show a gps track on a map:
-  -- gps.ipynb
+  -- gps_teacher.ipynb
   
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/cms-opendata-education/HST-2018/master)
