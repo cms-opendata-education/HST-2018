@@ -2,7 +2,6 @@
 Tasks and documentation developed by the open data workgroup at CERN HST 2018. There are two main tasks here:
 
 ## High School Level Task using smartphone data recorded with phyphox app & Jupyter notebooks
-<br/>
 You can run these notebooks in binder by using the link below. Refer to the teachers' guide document for further details.
 
   - Elevator - measure air pressure:
@@ -17,9 +16,9 @@ You can run these notebooks in binder by using the link below. Refer to the teac
   
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/cms-opendata-education/HST-2018/master)
 
+<br/>
 
 ## High School Level Task using CMS open data & Jupyter notebooks to find evidence for J/Psi
-<br/>
 You can run these notebooks in binder by using the links below. Refer to the teachers' guide document for further details.
 
 - Student Version: 
