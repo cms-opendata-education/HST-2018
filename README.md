@@ -15,7 +15,7 @@ You can run these notebooks in binder by using the links below. Refer to the tea
 <br/>
 <br/>
 
-## High School Level Task using smartphone data recorded with the phyphox app & Jupyter notebooks
+## High School Level Task using smartphone data recorded with phyphox app & Jupyter notebooks
 <br/>
 You can run these notebooks in binder by using the link below. Refer to the teachers' guide document for further details.
 
