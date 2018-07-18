@@ -15,7 +15,6 @@ You can run these notebooks in binder by using the link below. Refer to the teac
   -- gps_teacher.ipynb
   
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/cms-opendata-education/HST-2018/master)
-
 <br/>
 
 ## High School Level Task using CMS open data & Jupyter notebooks to find evidence for J/Psi
