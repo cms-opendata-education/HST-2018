@@ -17,7 +17,7 @@ You can run these notebooks in binder by using the links below. Refer to the tea
 
 ## High School Level Task using smartphone data recorded with the phyphox app & Jupyter notebooks
 <br/>
-You can run these notebooks in binder by using the links below. Refer to the teachers' guide document for further details.
+You can run these notebooks in binder by using the link below. Refer to the teachers' guide document for further details.
 
   - Elevator - measure air pressure:
   -- elevator_student.ipynb
