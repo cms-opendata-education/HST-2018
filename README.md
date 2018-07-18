@@ -3,19 +3,21 @@ Tasks and documentation developed by the open data workgroup at CERN HST 2018. T
 
 High School Level Task using CMS open data & Jupyter notebooks to find evidence for J/Psi
 
-You can run these notebooks in binder by using the links below, refer to the teachers guide document for further details.
-
+You can run these notebooks in binder by using the links below. Refer to the teachers' guide document for further details.
+\n
+\n
 - Student Version: 
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/cms-opendata-education/HST-2018/master?filepath=Dimuon%20J_Psi%20for%20High%20School%20(Student%20Version).ipynb)
 
 - Teacher Version (with code):
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/cms-opendata-education/HST-2018/master?filepath=Dimuon%20J_Psi%20for%20High%20School%20(Teacher%20Version%20with%20Code).ipynb)
 
-
+\n
+\n
 
 High School Level Task using smartphone data recorded with the phyphox app & Jupyter notebooks
 
-You can run these notebooks in binder by using the links below, refer to the teachers guide document for further details.
+You can run these notebooks in binder by using the links below. Refer to the teachers' guide document for further details.
 
   - Elevator - measure air pressure:
   -- elevator_student.ipynb
