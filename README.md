@@ -25,3 +25,6 @@ You can run these notebooks in binder by using the links below. Refer to the tea
 
 - Teacher Version (with code):
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/cms-opendata-education/HST-2018/master?filepath=Dimuon%20J_Psi%20for%20High%20School%20(Teacher%20Version%20with%20Code).ipynb)
+
+- Studen Version / Teacher Verison (with Code) German: 
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/cms-opendata-education/HST-2018/master)
